@@ -1,0 +1,6 @@
+framework module Pods_reconoteUITests {
+  umbrella header "Pods-reconoteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,18 @@
+PODS:
+  - Beethoven (4.0.2):
+    - Pitchy (~> 3.0)
+  - Pitchy (3.0.0)
+  - ReSwift (4.0.1)
+
+DEPENDENCIES:
+  - Beethoven
+  - ReSwift
+
+SPEC CHECKSUMS:
+  Beethoven: e517331e5087064e1c1fd3d3775fddb8d9f3017d
+  Pitchy: 15407e4425b6d88fa3e7eef8927ba659fab52d7a
+  ReSwift: f4012c613e13da7398827fe5aebdb938eaed40a3
+
+PODFILE CHECKSUM: a02fa5a4791f6e79cef79bb56cd8d6b3c99852cc
+
+COCOAPODS: 1.4.0
